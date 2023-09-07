@@ -10,3 +10,34 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+input{
+    border: none;
+    color: gray;
+    width: 100%;
+}
+.fondo{
+    background: pink;
+    margin-top: 25px;
+    padding: 25px;
+    border-radius: 10px;
+    width: 400px;
+}
+h1 {
+    padding-bottom: 15px;
+    font-size: 24px;
+    color: gray;
+}
+.fa-solid, .fas {
+    position: absolute;
+    padding: 4px;
+    right: 1px;
+    margin-right: 5px;
+}
+.list-group-item{
+    color: gray;
+}
+.items {
+    padding: 10px;
+    font-size: 14px;
+    color: gray;
+}
